@@ -5,7 +5,6 @@ Here you'll find lots of examples and source material for all of our devices.
 Most of the repositories are self documented, but if you need specific details about our hardware, it's best to check out our [documentation center](https://docs.siliconwitchery.com). 📚
 
 ![S1 Module](profile/s1-module-back.png)
-
 ### Part of a community
 
 We love open souce, and our work wouldn't be possible without you. Do you have ideas or something you'd like to see supported? Join the [discussion](https://github.com/siliconwitchery/.github/discussions) 💬 and we'll see how we can help.
