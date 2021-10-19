@@ -1,10 +1,10 @@
 ## Welcome to where our projects grow 🌱
 
-![S1 Module](profile/s1-module-back.png)
-
 Here you'll find lots of examples and source material for all of our devices.
 
 Most of the repositories are self documented, but if you need specific details about our hardware, it's best to check out our [documentation center](https://docs.siliconwitchery.com). 📚
+
+![S1 Module](profile/s1-module-back.png)
 
 ### Part of a community
 
