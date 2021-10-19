@@ -1,6 +1,6 @@
 ## Welcome to where our projects grow 🌱
 
-![S1 Module](s1-module-back.png)
+![S1 Module](profile/s1-module-back.png)
 
 This place is always changing, and you'll find lots of examples and source material for many of our projects.
 
