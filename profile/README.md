@@ -2,7 +2,7 @@
 
 ![S1 Module](profile/s1-module-back.png)
 
-This place is always changing, and you'll find lots of examples and source material for many of our projects.
+Here you'll find lots of examples and source material for all of our devices.
 
 Most of the repositories are self documented, but if you need specific details about our hardware, it's best to check out our [documentation center](https://docs.siliconwitchery.com). 📚
 
